@@ -1,0 +1,10 @@
+*~
+*.swp
+*.log
+*.exe
+*.dll
+
+Squeak4.2-10966.changes
+Squeak4.2-10966.image
+SqueakV41.sources
+sm
